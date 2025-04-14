@@ -124,3 +124,7 @@ Mostrará un menú con las siguientes opciones:
 - Se realizan correcciones específicas para códigos de activo conocidos (10007→1007, 1015→1115).
 - Se verifica que los IDs de cliente tengan exactamente 11 caracteres.
 - Se implementan múltiples validaciones para asegurar la calidad de los datos.
+  
+## Link para video evidenciando funcionalidad del sistema analítico desarrollado
+
+https://www.loom.com/share/8899042a60d747319dd9796ddc294eba?sid=040d6ddd-3c3a-4c6d-a361-b0568f4f2228
